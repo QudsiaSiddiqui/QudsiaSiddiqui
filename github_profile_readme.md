@@ -4,9 +4,8 @@
 
 ### Full Stack Java Developer | Fintech-Focused | Hyderabad, India
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-red?style=flat-square&logo=gmail)](mailto:YOUR_EMAIL@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=vercel)](https://YOUR_PORTFOLIO.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/qudsia-siddiqui-6b0967269/)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-red?style=flat-square&logo=gmail)](mailto:12qudsi@gmail.com)
 
 </div>
 
@@ -14,7 +13,7 @@
 
 ## 🚀 About Me
 
-I'm a **Full Stack Java Developer** with an **M.Tech in CSE (CGPA 8.24)** and a **B.Tech in IT**, passionate about building **production-grade backend systems** for the fintech space. I specialize in designing scalable microservices, secure authentication flows, and real-time data pipelines — the kind of infrastructure that powers platforms like **Zerodha, Razorpay, and PhonePe**.
+I'm a **Full Stack Java Developer** with an **M.Tech in CSE (CGPA 8.24)** and a **B.Tech in IT**, passionate about building **production-grade backend systems** for the fintech space. I specialize in designing scalable microservices, secure authentication flows, and real-time data pipelines.
 
 I love solving problems at the intersection of **high-performance systems** and **financial data integrity**.
 
@@ -83,15 +82,12 @@ I love solving problems at the intersection of **high-performance systems** and 
 
 ## 📫 Let's Connect
 
-I'm actively looking for **Spring Boot / Full Stack / Backend roles** in fintech companies like:
-
-**Zerodha · Razorpay · PhonePe · Groww · HSBC Tech · and more**
+I'm actively looking for **Spring Boot / Full Stack / Backend roles**
 
 If you're hiring or know someone who is, I'd love to chat!
 
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
-- 📧 [Email](mailto:YOUR_EMAIL@gmail.com)
-- 🌐 [Portfolio](https://YOUR_PORTFOLIO.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/qudsia-siddiqui-6b0967269/)
+- 📧 [Email](mailto:12qudsi@gmail.com)
 
 ---
 
