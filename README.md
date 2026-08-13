@@ -50,12 +50,12 @@ I love solving problems at the intersection of **high-performance systems** and 
 
 > 🎯 **Pinned below** — click through for architecture diagrams, API docs, and live demos.
 
-| Project | Description | Stack | Status |
-|---------|-------------|-------|--------|
-| **[💰 MoneyLedger](https://github.com/QudsiaSiddiqui/MoneyLedger)** | Personal finance tracker with multi-account support, transaction categorization, and monthly analytics dashboards. Built with fintech-grade data modeling. | Spring Boot, PostgreSQL, React, JWT | 🚀 Live Demo |
-| **[⏳ TimeWarp](https://github.com/QudsiaSiddiqui/TimeWarp)** | Event-sourced audit trail system — track every state change with immutable logs. Critical for compliance & regulatory reporting. | Spring Boot, Kafka, PostgreSQL, Docker | 🚀 Live Demo |
-| **[🗺️ Influence Map](https://github.com/QudsiaSiddiqui/InfluenceMap)** | Network graph visualization of stakeholder influence using React Flow + NetworkX. Real-time node analytics. | React, NetworkX, Spring Boot, Redis | 🚀 Live Demo |
-| **[✅ TaskFlow](https://github.com/QudsiaSiddiqui/TaskFlow)** | Async task orchestration platform with priority queues, retry logic, and dead-letter handling. Microservices-ready. | Spring Boot, Kafka, Redis, PostgreSQL | 🚀 Live Demo |
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[💰 MoneyLedger](https://github.com/QudsiaSiddiqui/MoneyLedger)** | Personal finance tracker with multi-account support, transaction categorization, and monthly analytics dashboards. Built with fintech-grade data modeling. | Spring Boot, PostgreSQL, React, JWT | 
+| **[⏳ TimeWarp](https://github.com/QudsiaSiddiqui/TimeWarp)** | Event-sourced audit trail system — track every state change with immutable logs. Critical for compliance & regulatory reporting. | Spring Boot, Kafka, PostgreSQL, Docker | 
+| **[🗺️ Influence Map](https://github.com/QudsiaSiddiqui/InfluenceMap)** | Network graph visualization of stakeholder influence using React Flow + NetworkX. Real-time node analytics. | React, NetworkX, Spring Boot, Redis | 
+| **[✅ TaskFlow](https://github.com/QudsiaSiddiqui/TaskFlow)** | Async task orchestration platform with priority queues, retry logic, and dead-letter handling. Microservices-ready. | Spring Boot, Kafka, Redis, PostgreSQL |
 
 ---
 
