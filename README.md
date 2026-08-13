@@ -68,17 +68,6 @@ I love solving problems at the intersection of **high-performance systems** and 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Qudsia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=QudsiaSiddiqui&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QudsiaSiddiqui&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 📫 Let's Connect
 
